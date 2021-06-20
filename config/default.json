@@ -1,0 +1,8 @@
+{
+    "jwtPrivateKey": "herejwt",
+    "db": "mongodb://127.0.0.1:27017/Barneshan",
+    "port": "3000",
+    "requiresAuth": false,
+    "API_URL": "/api/v1"
+  }
+  
